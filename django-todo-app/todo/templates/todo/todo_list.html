@@ -6,6 +6,8 @@
 <ul>
 {% for todo in todos %}
     <li>{{ todo.title }}</li>
+    <button><a href="{% url 'delete' todo.id %}">Delete</a></button>
+    <button><a href="{% url 'update' todo.id %}">Update</a></button>
 {% endfor %}
 </ul>
 

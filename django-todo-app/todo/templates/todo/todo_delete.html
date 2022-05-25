@@ -1,0 +1,15 @@
+{% extends 'todo/base.html' %} 
+
+
+{% block content %}
+<h2>TODO Delete</h2>
+
+<form action="" method="POST">
+    {% csrf_token %}
+     Are You sure for delete {{todo.title}}?
+    <input type="submit" value="Delete">
+    <button><a href="{% url 'update' todo.id %}">Noo!</a></button>
+</form>
+
+
+{% endblock content %}
