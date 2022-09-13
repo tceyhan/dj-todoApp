@@ -66,5 +66,5 @@ $ python manage.py runserver
 
 - GitHub [@tceyhan](https://{github.com/tceyhan})
 
-- Linkedin [@tarikceyhan](https://{linkedin.com/in/tarikceyhan})
+- Linkedin [@tarikceyhan](https://{linkedin.com/tarikceyhan})
 
