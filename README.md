@@ -64,7 +64,7 @@ $ python manage.py runserver
 ## Contact
 
 
-- GitHub [@your-username](https://{github.com/tceyhan})
+- GitHub [@tceyhan](https://{github.com/tceyhan})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/in/tarikceyhan})
+- Linkedin [@tarikceyhan](https://{linkedin.com/in/tarikceyhan})
 
